@@ -1,5 +1,6 @@
+Movie Website Link : http://tadroseshak-001-site1.ctempurl.com
 
-Moviex Web Site:
+Moviex Web Site: 
 
 	This web-based platform allows users to view available movie 
 	tickets along with information about the movie such as the description,
@@ -11,7 +12,7 @@ Moviex Web Site:
 	while also providing easy management for the admin.
 
 
-Moviex Tecknology :
+Moviex Technology :
 
 	 Asp.Net MVC | Html | CSS | JS |Bootstrap | Microsoft SQL Server | Entity Framework Core. 
 	
